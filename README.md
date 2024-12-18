@@ -1,6 +1,33 @@
-# Blog_Resetarios
+# Blog de Recetarios 📖🍽️
 
-El proyecto es un blog Resetarios, desarrollado en PHP que utiliza una base de datos MySQL para almacenar y gestionar los datos. Permite a los usuarios crear, editar y eliminar entradas de recetas. Además, cuenta con un sistema de registro y inicio de sesión para que los usuarios puedan crear una cuenta y acceder al blog de forma segura. El proyecto se centra en brindar una interfaz amigable y atractiva para que los usuarios puedan compartir sus recetas y explorar las creaciones de otros usuarios.
+Este proyecto es un blog de **recetarios** desarrollado en **PHP** con una base de datos **MySQL** para almacenar y gestionar información de manera eficiente. Permite a los usuarios **crear, editar y eliminar recetas** fácilmente. Además, incluye un sistema de **registro e inicio de sesión seguro** para proteger el acceso de los usuarios.
+
+## Características Principales 🚀
+
+- **Gestión de Recetas**:
+  - Crear nuevas entradas de recetas con detalles completos.
+  - Editar y eliminar recetas existentes.
+  
+- **Autenticación de Usuarios**:
+  - Registro de usuarios.
+  - Inicio de sesión seguro para proteger las cuentas.
+
+- **Base de Datos MySQL**:
+  - Almacenamiento eficiente de recetas y datos de usuarios.
+
+- **Interfaz Amigable**:
+  - Diseño atractivo y fácil de usar.
+  - Navegación intuitiva para explorar recetas.
+
+- **Exploración de Contenido**:
+  - Descubre recetas compartidas por otros usuarios de la comunidad.
+
+## Tecnologías Utilizadas 🛠️
+
+- **Lenguaje**: PHP
+- **Base de Datos**: MySQL
+- **Frontend**: HTML, CSS y JavaScript
+
 
 ![image](https://github.com/AndrewsMorales/Blog_Resetarios/assets/120028117/b2ad286f-6534-4645-8f76-badee55afbb7)
 ![image](https://github.com/AndrewsMorales/Blog_Resetarios/assets/120028117/b2f9c859-d853-4de7-b288-de07b4addfa1)
